@@ -1,4 +1,4 @@
-// Last updated: 8/20/2026, 9:33:36 PM
+// Last updated: 8/20/2026, 9:37:52 PM
 1class Solution {
 2    public int minEatingSpeed(int[] piles, int h) {
 3        int left=1,right=0;
